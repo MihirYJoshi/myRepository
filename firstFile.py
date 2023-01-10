@@ -1,0 +1,1 @@
+print ("Now you know how to clone a Github Repo through VS Code!")
